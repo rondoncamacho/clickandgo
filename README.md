@@ -1,4 +1,4 @@
-Proyecto: Tienda en Línea con WooCommerce 🛒 www.clickandgo.com.ar
+Proyecto: Tienda en Línea con WooCommerce 🛒 https://clickandgo.ar/
 Este repositorio contiene el código de una tienda en línea profesional, desarrollada sobre la plataforma WordPress y el plugin de e-commerce WooCommerce. El objetivo principal es ofrecer una interfaz de usuario optimizada, tanto para el escritorio como para dispositivos móviles.
 
 El diseño y la funcionalidad se basan en la personalización de la experiencia de compra, desde la visualización de productos hasta el proceso de checkout.
